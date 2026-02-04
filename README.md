@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5603AQEgaTaLUsLJ9w/profile-displayphoto-shrink_800_800/B56ZcYXAClGsAk-/0/1748460373645?e=1772064000&v=beta&t=176isFQO7qef3k6Tl-AcqR2kZ-cRVVrd7M4OqznQNzs)
 <h1 align="center">Hi 👋, I'm Zehra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a 4th year computer engineering student with a passion for coding and design</h3>
 
 - 💬 Ask me about **Python**
 
